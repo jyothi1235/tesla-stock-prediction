@@ -57,4 +57,6 @@ Deployment
 
 The project is deployed using Streamlit Community Cloud.
 
-Live App: https://tesla-stock-prediction-mbvc5huihevmprmd3hcksx.streamlit.app/
+## How to keep Streamlit deploy link in GitHub
+```markdown
+**Live App:** [Add your Streamlit link here](https://tesla-stock-prediction-mbvc5huihevmprmd3hcksx.streamlit.app/)
