@@ -4,7 +4,7 @@ A machine learning and deep learning based project to analyze Tesla stock market
 
 ## Live Demo
 
-**Streamlit App:** [Open Streamlit App](https://tesla-stock-prediction-mbvc5huihevmpnmd3hcksx.streamlit.app)
+**Streamlit App:** [Open Streamlit App](https://tesla-stock-prediction-mbvc5huihevmprmd3hcksx.streamlit.app/)
 
 ## Project Overview
 
@@ -54,3 +54,6 @@ tesla-stock-prediction/
 │── .gitignore
 │── dataset/
 │── model/
+
+link:
+https://tesla-stock-prediction-mbvc5huihevmprmd3hcksx.streamlit.app/
